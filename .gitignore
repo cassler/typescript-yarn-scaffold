@@ -1,8 +1,6 @@
 node_modules/
 dist/
 .DS_Store
-prisma/migrations
-prisma/dev.db
 *.db
 data/*.csv
 data/*.xlsx

@@ -1,0 +1,6 @@
+{
+  "workbench.fontAliasing": "antialiased",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.fontSize": 14,
+  "zenMode.fullScreen": false
+}
