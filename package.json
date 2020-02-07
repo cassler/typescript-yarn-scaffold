@@ -1,0 +1,12 @@
+{
+  "name": "rx-workflower",
+  "version": "0.1.0",
+  "description": "An RxDB take on Workflower's backend",
+  "main": "index.js",
+  "author": "Darin Cassler",
+  "license": "None",
+  "dependencies": {
+    "rxdb": "^8.7.5",
+    "rxjs": "^6.5.4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "lib": [
+      "es2018",
+      "dom"
+    ],
+    "strict": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
