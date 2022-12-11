@@ -7,7 +7,7 @@
   "license": "None",
   "dependencies": {
     "pouchdb-adapter-leveldb": "^7.1.1",
-    "rxdb": "^8.7.5",
+    "rxdb": "^13.15.2",
     "rxjs": "^6.5.4"
   }
 }
